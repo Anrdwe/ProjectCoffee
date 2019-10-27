@@ -1,0 +1,77 @@
+.beanList {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #efefef;
+    
+    padding: 30px;
+}
+
+.beanItem {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 20px 0;
+    width: 70%;
+    border-bottom: 1px solid #cecece;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #333333;
+}
+.title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #333333;
+    padding: 30px 20px 0
+}
+.roastItem {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #333333;
+}
+.coffeeRouletteButton {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: white;
+    background-color:#f5af93;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    text-align: center;
+}
+.orderButton {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: white;
+    background-color:#f26113;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    text-align: center;
+}
+.orderDisplay {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    padding: 15px 32px;
+}
+
+input[type=checkbox] {
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+input[type=checkbox]:focus {
+    outline: 0;
+}
