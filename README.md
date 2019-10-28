@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Access the site [here] (https://Anrdwe.github.io/ProjectCoffee).
+Access the site [here](https://Anrdwe.github.io/ProjectCoffee).
 
 ## JavaScript Files
 ### BeanMixContainer
