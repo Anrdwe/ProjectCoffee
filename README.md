@@ -4,7 +4,7 @@ Access the site [here](https://Anrdwe.github.io/ProjectCoffee).
 
 ## JavaScript Files
 ### BeanMixContainer
-Contains the State of the app.
+Contains the State of the app.<br/>
 3 handleChange methods: handleChange, handleSubmit, randomChange
 
 ### BeanMixComponent
