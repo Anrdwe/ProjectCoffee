@@ -44,7 +44,7 @@ class BeanMixContainer extends React.Component {
         })
     }
 
-    handleChange(event) {
+    /*handleChange(event) {
         const {name, type, value, key} = event.target
         if (type==='checkbox'){
             this.setState(prevState => {
@@ -62,7 +62,7 @@ class BeanMixContainer extends React.Component {
                 [name]: value
             })
         }  
-    }
+    }*/
 
     randomChange() {
         const roasts = ['light', 'medium', 'dark']
