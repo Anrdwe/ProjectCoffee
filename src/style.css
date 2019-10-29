@@ -75,3 +75,14 @@ input[type=checkbox] {
 input[type=checkbox]:focus {
     outline: 0;
 }
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+    color: #333333;
+    padding: 30px 20px 0;
+    border-bottom: 1px solid #cecece
+}

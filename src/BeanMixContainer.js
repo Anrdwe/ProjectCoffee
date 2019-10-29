@@ -86,6 +86,7 @@ class BeanMixContainer extends React.Component {
         const BeanDisplay = this.state.coffeeBeans.map(bean => bean.added ? <p>{bean.name} </p> : null)
         return(
             <div className='beanList'>
+                <div className='header'>CoffeeShop</div>
                 <div className='title'>Select your beans</div>
                 {BeanMixData}
                 <br/>
