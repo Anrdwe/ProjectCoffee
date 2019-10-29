@@ -44,25 +44,12 @@ class BeanMixContainer extends React.Component {
         })
     }
 
-    /*handleChange(event) {
+    handleChange(event) {
         const {name, type, value, key} = event.target
-        if (type==='checkbox'){
-            this.setState(prevState => {
-                const updatedBeanMix = prevState.coffeeBeans.map(bean => {
-                    if (key === bean.id) {
-                        bean.added = !bean.added
-                    }
-                    return bean
-                })
-                return {coffeeBeans: updatedBeanMix}
-            })
-        }
-        else {
-            this.setState({
-                [name]: value
-            })
-        }  
-    }*/
+        this.setState({
+            [name]: value
+        })  
+    }
 
     randomChange() {
         const roasts = ['light', 'medium', 'dark']
