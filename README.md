@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 The project is deployed with Netlify.
-Access the site [here](https://quizzical-lamarr-a4ba5d.netlify.com).
+Access the site [here](https://coffeshop.netlify.com/).
 
 ## JavaScript Files
 ### BeanMixContainer
