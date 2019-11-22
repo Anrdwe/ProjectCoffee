@@ -1,9 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+# ProjectCoffee
 
+## Link to the web app
 The project is deployed with Netlify.
-Access the site [here](https://coffeshop.netlify.com/).
+Access the website [here](https://coffeshop.netlify.com/).
+
+## Project folder structure
 
 ## JavaScript Files
+
 ### BeanMixContainer
 Contains the State of the app.<br/>
 4 handleChange methods: 
