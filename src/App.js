@@ -1,5 +1,5 @@
 import React from 'react'
-import BeanMixContainer from './BeanMixContainer'
+import BeanMixContainer from './containers/BeanMixContainer'
 
 function App() {
     return (

@@ -1,8 +1,8 @@
 import React from 'react'
-import BeanMixComponent from './BeanMixComponent'
-import './style.css'
-import RoastComponent from './RoastComponent'
-import CoffeeRoulette from './CoffeeRouletteComponent'
+import BeanMixComponent from '../components/BeanMixComponent'
+import '../styles/style.css'
+import RoastComponent from '../components/RoastComponent'
+import CoffeeRoulette from '../components/CoffeeRouletteComponent'
 
 class BeanMixContainer extends React.Component {
     constructor() {
