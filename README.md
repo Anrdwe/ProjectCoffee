@@ -5,7 +5,8 @@ The project is deployed with Netlify.
 Access the website [here](https://coffeshop.netlify.com/).
 
 ## Project folder structure
-
+'/src/containers/' contains the files that maintain and update state <br>
+'/src/components/' contains the files that handles the display logic
 ## JavaScript Files
 
 ### BeanMixContainer
